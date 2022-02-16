@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-20-industrial-organization-and-public-policy-spring-2003/211b8c60c855e6454950678e89df11be_ps1_sol.pdf
+file: /media/courses/14-20-industrial-organization-and-public-policy-spring-2003/211b8c60c855e6454950678e89df11be_ps1_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps1_sol.pdf
 uid: 211b8c60-c855-e645-4950-678e89df11be

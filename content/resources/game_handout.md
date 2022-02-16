@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Game handout
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-20-industrial-organization-and-public-policy-spring-2003/fc6a41390d1cf51f4bbca1a6d8e082bb_game_handout.pdf
+file: /media/courses/14-20-industrial-organization-and-public-policy-spring-2003/fc6a41390d1cf51f4bbca1a6d8e082bb_game_handout.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: game_handout.pdf
 uid: fc6a4139-0d1c-f51f-4bbc-a1a6d8e082bb
