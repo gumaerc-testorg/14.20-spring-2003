@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 22590128-9ea5-f457-b013-991bdb7f70aa
 resourcetype: Document
 title: spring_2000_exam.pdf
 uid: d32be48d-5706-b61c-89ee-d24e9cf29dcf

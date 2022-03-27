@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d6fd96c4-a325-c6a7-8861-5b70d9a2738a
 resourcetype: Document
 title: csg_writeup.pdf
 uid: b3b8f2e8-5b23-925c-1f45-4a6e9651242b
