@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-20-industrial-organization-and-public-policy-spring-2003/2d561c393f46723ea22288416b2da5fa_ps2_sol.pdf
+file: /courses/14-20-industrial-organization-and-public-policy-spring-2003/2d561c393f46723ea22288416b2da5fa_ps2_sol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
