@@ -4,6 +4,7 @@ description: Personal history and class questionnaire for students
 file: /courses/14-20-industrial-organization-and-public-policy-spring-2003/63dc1d907d8a521a158471d562286cdd_studentinfo.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: studentinfo.pdf
 uid: 63dc1d90-7d8a-521a-1584-71d562286cdd
 ---
 Personal history and class questionnaire for students
-
