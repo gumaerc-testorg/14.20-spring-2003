@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9700de40-cd13-2279-d018-7236b2863b02
 ---
@@ -27,7 +30,7 @@ NOTE: This course requires consistent and sustained work over the term, on a wee
 Grading
 -------
 
-Students are asked to submit their answers to the Student Information Form ([PDF]({{< baseurl >}}/resources/studentinfo)) at the start of the term.
+Students are asked to submit their answers to the Student Information Form ({{% resource_link 63dc1d90-7d8a-521a-1584-71d562286cdd "PDF" %}}) at the start of the term.
 
 **Required assignments and their weight for determining your final 14.20 grade:**
 

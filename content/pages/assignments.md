@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d6fd96c4-a325-c6a7-8861-5b70d9a2738a
 ---
@@ -31,7 +35,7 @@ ASSIGNMENTS
 Overview & Review
 {{< tdclose >}}
 {{< tdopen >}}
-Cemex Discussion Questions ([PDF]({{< baseurl >}}/resources/cemex_discussion_questions))
+Cemex Discussion Questions ({{% resource_link cb5496cb-0298-590b-1fb6-13d240137c45 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,11 +71,11 @@ Cemex Discussion
 Game Theory 1: Static Models
 {{< tdclose >}}
 {{< tdopen >}}
-Game Handout Due ([PDF]({{< baseurl >}}/resources/game_handout))  
+Game Handout Due ({{% resource_link fc6a4139-0d1c-f51f-4bbc-a1a6d8e082bb "PDF" %}})  
   
 PS 1 Out
 
-*   PS1 ([PDF]({{< baseurl >}}/resources/ps1))
+*   PS1 ({{% resource_link 5fac00ba-8816-18de-df81-959df255eb8e "PDF" %}})
     
 
 
@@ -98,7 +102,7 @@ Recitation: Competitive Strategy Game
 Game Theory II: Dynamic Games
 {{< tdclose >}}
 {{< tdopen >}}
-GE Case Questions ([PDF]({{< baseurl >}}/resources/ge_discussion_questions))
+GE Case Questions ({{% resource_link 23760f1e-18d9-0732-369a-e53b342928f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,8 +168,8 @@ OPEC Discussion
   
 PS 2 Out (include pricing questions)
 
-*   PS2 ([PDF]({{< baseurl >}}/resources/ps2))
-*   PS2 Solutions ([PDF]({{< baseurl >}}/resources/ps2_sol))
+*   PS2 ({{% resource_link 1f482491-d716-1836-7b39-e654fcfe95d3 "PDF" %}})
+*   PS2 Solutions ({{% resource_link 2d561c39-3f46-723e-a222-88416b2da5fa "PDF" %}})
 
 CSG 2 Due
 {{< tdclose >}}
@@ -253,7 +257,7 @@ CSG 4 Due
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Mid-term Exam]({{< baseurl >}}/pages/exams)
+{{% resource_link 22590128-9ea5-f457-b013-991bdb7f70aa "Mid-term Exam" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,7 +281,7 @@ CSG 5 Due
 Entry
 {{< tdclose >}}
 {{< tdopen >}}
-PS 3 Out ([PDF]({{< baseurl >}}/resources/ps3))  
+PS 3 Out ({{% resource_link 8528bb19-39d4-3b31-8606-d5f5d83687de "PDF" %}})  
   
 Titanium Dioxide Questions
 {{< tdclose >}}
@@ -385,8 +389,8 @@ Product Choice 2: Quality, Durability & Networks
 {{< tdopen >}}
 PS 4 Out
 
-*   PS4 ([PDF]({{< baseurl >}}/resources/ps4))
-*   PS4 Solutions ([PDF]({{< baseurl >}}/resources/ps4_sol))
+*   PS4 ({{% resource_link 68032b15-4294-a52b-f15c-d4dea74bda08 "PDF" %}})
+*   PS4 Solutions ({{% resource_link 3e956350-b977-c7f1-a0d0-7eb4fdb0d831 "PDF" %}})
 
 CSG 8 Due
 {{< tdclose >}}
@@ -474,7 +478,7 @@ Internal Organization 2: Firm Behavior
 Recitation: CSG Debriefing
 {{< tdclose >}}
 {{< tdopen >}}
-CSG Write-up Due  ([PDF]({{< baseurl >}}/resources/csg_writeup))  
+CSG Write-up Due  ({{% resource_link b3b8f2e8-5b23-925c-1f45-4a6e9651242b "PDF" %}})  
   
 Industry Discussion Questions Out
 {{< tdclose >}}
@@ -524,7 +528,7 @@ Review for Final Exam
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Final Exam]({{< baseurl >}}/pages/exams)
+{{% resource_link 22590128-9ea5-f457-b013-991bdb7f70aa "Final Exam" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
