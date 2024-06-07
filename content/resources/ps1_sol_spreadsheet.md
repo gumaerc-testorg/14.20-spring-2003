@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-20-industrial-organization-and-public-policy-spring-2003/b5f178d9ce4f02a0bb7c7cdaf8c90b5d_ps1_sol_spreadsheet.xls
+file_size: 94208
 file_type: application/msword
 learning_resource_types:
 - Assignments
