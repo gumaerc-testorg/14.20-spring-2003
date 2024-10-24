@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-20-industrial-organization-and-public-policy-spring-2003/23760f1e18d90732369ae53b342928f5_ge_discussion_questions.pdf
+file: /ol-ocw-studio-app/courses/14-20-industrial-organization-and-public-policy-spring-2003/23760f1e18d90732369ae53b342928f5_ge_discussion_questions.pdf
 file_size: 71318
 file_type: application/pdf
 learning_resource_types:
