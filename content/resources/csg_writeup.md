@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for reporting on competitive strategy game
-file: /courses/14-20-industrial-organization-and-public-policy-spring-2003/b3b8f2e85b23925c1f454a6e9651242b_csg_writeup.pdf
+file: /ol-ocw-studio-app/courses/14-20-industrial-organization-and-public-policy-spring-2003/b3b8f2e85b23925c1f454a6e9651242b_csg_writeup.pdf
 file_size: 88391
 file_type: application/pdf
 learning_resource_types:
