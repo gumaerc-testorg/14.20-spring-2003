@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mexican cement company Cemex
-file: /ol-ocw-studio-app/courses/14-20-industrial-organization-and-public-policy-spring-2003/cb5496cb0298590b1fb613d240137c45_cemex_discussion_questions.pdf
+file: /courses/14-20-industrial-organization-and-public-policy-spring-2003/cb5496cb0298590b1fb613d240137c45_cemex_discussion_questions.pdf
 file_size: 84655
 file_type: application/pdf
 learning_resource_types:
