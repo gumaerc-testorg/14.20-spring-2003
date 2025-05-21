@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-20-industrial-organization-and-public-policy-spring-2003/1f482491d71618367b39e654fcfe95d3_ps2.pdf
+file: /courses/14-20-industrial-organization-and-public-policy-spring-2003/1f482491d71618367b39e654fcfe95d3_ps2.pdf
 file_size: 112240
 file_type: application/pdf
 learning_resource_types:
